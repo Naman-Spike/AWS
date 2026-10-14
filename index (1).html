@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Times - News Portal</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Daily Times</h1>
+        <p>Your daily dose of news</p>
+    </header>
+
+    <nav>
+        <a href="#" class="active" data-category="All">Home</a>
+        <a href="#" data-category="National">National</a>
+        <a href="#" data-category="Technology">Technology</a>
+        <a href="#" data-category="Sports">Sports</a>
+        <a href="#" data-category="Business">Business</a>
+    </nav>
+
+    <div class="breaking">
+        <strong>BREAKING NEWS</strong>
+        <span>Stay updated with the latest headlines!</span>
+    </div>
+
+    <main>
+        <div class="top">
+            <h2>Latest News</h2>
+            <input type="text" id="search" placeholder="Search news..." aria-label="Search news">
+        </div>
+        <div id="news-container" class="news-grid">
+            <p>Loading news...</p>
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Daily Times. All rights reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
