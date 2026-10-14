@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
+    <article>
+        <title>Government Announces New Digital Initiative</title>
+        <category>National</category>
+        <description>The government has announced a new initiative to improve digital services for citizens.</description>
+        <date>October 14, 2026</date>
+    </article>
+    <article>
+        <title>Artificial Intelligence Transforms Healthcare</title>
+        <category>Technology</category>
+        <description>New AI technologies are helping doctors analyze medical data more efficiently.</description>
+        <date>October 13, 2026</date>
+    </article>
+    <article>
+        <title>India Prepares for Upcoming Cricket Series</title>
+        <category>Sports</category>
+        <description>The national cricket team begins preparations for its upcoming international series.</description>
+        <date>October 12, 2026</date>
+    </article>
+    <article>
+        <title>Markets Show Positive Growth</title>
+        <category>Business</category>
+        <description>Financial markets record positive movement amid improving investor confidence.</description>
+        <date>October 11, 2026</date>
+    </article>
+    <article>
+        <title>New Technology Startups Attract Investors</title>
+        <category>Technology</category>
+        <description>Emerging startups are attracting investment in artificial intelligence and automation.</description>
+        <date>October 10, 2026</date>
+    </article>
+    <article>
+        <title>National Infrastructure Projects Expand</title>
+        <category>National</category>
+        <description>Several infrastructure projects aim to improve transport and regional connectivity.</description>
+        <date>October 9, 2026</date>
+    </article>
+</news>
